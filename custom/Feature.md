@@ -1,19 +1,19 @@
-# Feature Title
+# 🚀 Titre
 
-## Describe the ideal solution or feature request
+## Décrire la solution idéale ou la demande de fonctionnalité
 
-A clear and concise description of what the customer wants to happen.
+Une description claire et concise de ce que le client veut arriver.
 
-## Difficulty, impact, and usage score
+## Estimation de difficulté, d'impact et d'utilisation
 
-| Technical difficulty | User goals | Usage frequency |
+| Difficulté technique | Objectifs de l'utilisateur | Fréquence d'utilisation |
 |--------------------| --------------------| --------------------|
-| ie. Small, medium, large (filled out after submission) |  ie. How important is this to the user, what the user wants to accomplish | ie. Daily, weekly, monthly |
+| ie. Petit, moyen, grand (rempli après la soumission) |  ie. Quelle est l'importance de cela à l'utilisateur, ce que l'utilisateur veut accomplir | ie. Quotidien, hebdo, mensuel |
 
-## How does this tie into our current product?
+## Comment cela se rattache au produit actuel?
 
-Describe whether this request is related to an existing workflow, feature, or otherwise something in the product today. Or, does this open us up to new markets and innovative ideas?
+Décrivez si cette demande est liée à un flux de travail existant, à une fonctionnalité ou autrement quelque chose dans le produit aujourd'hui.Ou, cela nous ouvre-t-il des nouveaux marchés et des idées innovantes?
 
-## Who asked for this?
+## Qui a demandé cela?
 
-Add more on who asked for this, ie. company, person, how much they pay us, what their tier is, are they a strategic account, etc.
+Ajoutez plus sur qui a demandé cela, c'est-à-dire.Société, personne, combien ils nous paient, quel est leur niveau, sont-ils un compte stratégique, etc.

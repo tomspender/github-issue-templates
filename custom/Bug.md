@@ -1,52 +1,51 @@
-# Bug Title
+# 🪳 Titre
 
-## Priority + Rationale
+## Priorité + justification
 
-(To be filled out after bug submission by a product owner)
+(À remplir après la soumission de bugs par un propriétaire de produit)
 
-- Add stats if available on % of customers impacted
-- Is this visible by all customers, or in a high traffic area?
-- Is this tech debt?
-- If applicable, what % of revenue is possibly impacted by this?
+- Si dispo, ajouter des statistiques sur le %age des clients impactés
+- Est-ce visible par tous les clients ou dans une zone de trafic élevée?
+- Est-ce de la dette technique?
 
-## Describe the bug
+## Décrivez le bug
 
-A clear and concise description of what the bug is.
+Une description claire et concise du bug.
 
-## Steps to Reproduce
+## Étapes pour reproduire
 
-Steps to reproduce the behavior:
+Étapes pour reproduire le comportement:
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Aller à '...'
+2. Cliquer sur '....'
+3. Scroller jusqu'à '....'
+4. Voir l'erreur
 
-## What do you believe the expected behavior is
+## Quel devrait selon vous être le comportement attendu
 
-A clear and concise description of what you expected to happen.
+Une description claire et concise de ce que vous attendiez.
 
-## Relevant screenshots
+## Captures d'écran pertinentes
 
-If applicable, add screenshots to help explain your problem.
+Le cas échéant, ajoutez des captures d'écran pour vous aider à expliquer votre problème.
 
-## Platform details
+## Détails de la plate-forme
 
-Where is this occurring and more details about the environment (computer setup) of the customer.
+Où se déroule-t-il et détails sur l'environnement du client (Configuration de l'ordinateur).
 
-**Desktop (please complete the following information):**
+**Desktop (compléter les informations suivantes):**
 
 - OS: [e.g. iOS]
 - Browser [e.g. chrome, safari]
 - Version [e.g. 22 or web app]
 
-**Mobile (please complete the following information):**
+**Mobile (compléter les informations suivantes):**
 
 - Device: [e.g. iPhone6]
 - OS: [e.g. iOS8.1]
 - Browser [e.g. stock browser, safari]
 - Version [e.g. 22]
 
-## Additional context
+## Contexte supplémentaire
 
-Add any other context about the problem here.
+Ajoutez tout autre contexte sur le problème ici.
